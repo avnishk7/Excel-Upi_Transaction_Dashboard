@@ -14,7 +14,6 @@ The main objective of this project is to transform a large raw transaction datas
 ## 📊 Dashboard Preview
 
 <img width="1808" height="825" alt="image" src="https://github.com/user-attachments/assets/490626d6-9c31-4503-aeb1-58b104c93e2e" />
-<img width="1797" height="860" alt="image" src="https://github.com/user-attachments/assets/ca16cf59-0268-4995-931c-2e308b1a95a1" />
 
 
 ---
